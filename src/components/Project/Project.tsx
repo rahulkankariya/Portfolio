@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Karmm: Astrology & Matchmaking",
     description: "Karmm is an all-in-one platform offering astrology, matchmaking, and dating features. Users can chat with astrologers via text, audio, or video for personalized horoscope readings. The app also includes an e-commerce section for spiritual products, a secure matrimony feature with earning options through face recognition, and a dating section that promotes real connections with video, audio, and chat options.",
-    image: "/src/assets/karmm-user.webp",
+    image: "/assets/karmm-user.webp",
     link: "https://karmm.com/",
     tech: [],
     github: "",
@@ -14,7 +14,7 @@ const projects = [
   {
     title: "Karmm Pro",
     description: "Karmm: Pro is a dedicated platform for professional astrologers and spiritual product sellers. Astrologers can connect with users via video, audio, or chat for consultations. Sellers can manage their e-commerce stores with full inventory control and selling features. The app also supports live streaming, allowing astrologers to engage with audiences in real time, enhancing trust and visibility.",
-    image: "/src/assets/karmm-pro.webp",
+    image: "/assets/karmm-pro.webp",
     link: "https://karmm.com/",
     github: "",
     tech: [],
@@ -23,7 +23,7 @@ const projects = [
   {
     title: "Find-Me",
     description: "Find Me is an advanced application designed to facilitate the recovery of lost pets using cutting-edge geolocation technology. The app provides real-time tracking and updates, enabling pet owners to report and locate lost animals. It integrates multiple APIs to deliver a seamless user experience across Android, iOS, and web platforms, featuring an intuitive interface for efficient pet recovery.",
-    image: "/src/assets/find-me.webp",
+    image: "/assets/find-me.webp",
     link: "https://play.google.com/store/apps/details?id=com.pets.find_me&hl=en_IN",
     stars: "",
     github: "",
@@ -32,7 +32,7 @@ const projects = [
   {
     title: "PayPark",
     description: "A parking management app for the UAE, available on Android and iOS, designed to simplify finding, booking, and paying for parking spots.",
-    image: "/src/assets/paypark.webp",
+    image: "/assets/paypark.webp",
     link: "https://apps.apple.com/in/app/paypark-uae/id1516081945",
     stars: "",
     github: "",
@@ -41,10 +41,10 @@ const projects = [
   {
     title: "The Academix",
     description: "An educational app for Android, iOS, and Web, offering interactive lessons, quizzes, and a comprehensive study material library for students and teachers.",
-    image: "/src/assets/academix.webp",
+    image: "/assets/academix.webp",
     link: "https://play.google.com/store/apps/details?id=com.institute.theacademix&hl=en_IN",
     stars: "",
-    github: "",
+     github: "",
     tech: [],
   },
 ];
