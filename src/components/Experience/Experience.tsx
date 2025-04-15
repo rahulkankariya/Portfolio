@@ -73,7 +73,7 @@ export default function Experience() {
             <span>
               View Full{" "}
               <span className="inline-block">
-                Résumé
+                Resume
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 20 20"
