@@ -1,6 +1,10 @@
 import SocialLinks from "../SocialLinks/SocialLinks";
-
-export default function Header({ activeId, sections }) {
+interface HeaderProps {
+  activeId: string;
+  sections: string[];
+}
+export default function Header({ activeId, sections }: HeaderProps) {
+// export default function Header({ activeId, sections }) {
   return (
     <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24">
       <div>

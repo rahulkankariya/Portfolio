@@ -26,6 +26,7 @@ const projects = [
     image: "/src/assets/find-me.webp",
     link: "https://play.google.com/store/apps/details?id=com.pets.find_me&hl=en_IN",
     stars: "",
+    github: "",
     tech: [],
   },
   {
@@ -34,6 +35,7 @@ const projects = [
     image: "/src/assets/paypark.webp",
     link: "https://apps.apple.com/in/app/paypark-uae/id1516081945",
     stars: "",
+    github: "",
     tech: [],
   },
   {
@@ -42,6 +44,7 @@ const projects = [
     image: "/src/assets/academix.webp",
     link: "https://play.google.com/store/apps/details?id=com.institute.theacademix&hl=en_IN",
     stars: "",
+    github: "",
     tech: [],
   },
 ];
