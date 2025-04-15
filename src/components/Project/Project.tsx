@@ -1,6 +1,5 @@
 
 import ProjectItem from "./ProjectDetail";
-
 const projects = [
   {
     title: "Karmm: Astrology & Matchmaking",
